@@ -1,0 +1,5 @@
+clearml>=1.8.3
+opencv_python>=4.6.0.66
+Pillow>=9.3.0
+scanf>=1.5.2
+torch>=1.13.0

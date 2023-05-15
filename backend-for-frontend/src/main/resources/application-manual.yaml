@@ -1,0 +1,9 @@
+mail-sender:
+  host: smtp.elasticemail.com
+  port: 2525
+  username: gene.zagalsky@gmail.com
+  password: 10F208B0912BEEA3427A31C7D13568628591
+  protocol: smtp
+  auth: true
+  starttls-enable: true
+  debug: true
